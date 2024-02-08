@@ -1,0 +1,6818 @@
+{
+  "Water solubility": {
+    "Fullerenes (C60)": [
+      "TG105"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG105"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG105"
+    ],
+    "Silver nanoparticles": [
+      "TG105"
+    ],
+    "Titanium dioxide NM105": [
+      "TG105"
+    ],
+    "Titanium dioxide NM100": [
+      "TG105"
+    ],
+    "Titanium dioxide NM101": [
+      "TG105"
+    ],
+    "Titanium dioxide NM102": [
+      "TG105"
+    ],
+    "Titanium dioxide NM103": [
+      "TG105"
+    ],
+    "Titanium dioxide NM104": [
+      "TG105"
+    ],
+    "Cerium oxide": [
+      "TG105"
+    ],
+    "Zinc oxide": [
+      "TG105"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG105"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG105"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG105"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG105"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG105"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG105"
+    ],
+    "Dendrimers ": [
+      "TG105"
+    ],
+    "Nanoclays ": [
+      "TG105"
+    ],
+    "Gold nanoparticles ": [
+      "TG105"
+    ]
+  },
+  "Viscosity": {
+    "Fullerenes (C60)": [
+      "TG114"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG114"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG114"
+    ],
+    "Silver nanoparticles": [
+      "TG114"
+    ],
+    "Titanium dioxide NM105": [
+      "TG114"
+    ],
+    "Titanium dioxide NM100": [
+      "TG114"
+    ],
+    "Titanium dioxide NM101": [
+      "TG114"
+    ],
+    "Titanium dioxide NM102": [
+      "TG114"
+    ],
+    "Titanium dioxide NM103": [
+      "TG114"
+    ],
+    "Titanium dioxide NM104": [
+      "TG114"
+    ],
+    "Cerium oxide": [
+      "TG114"
+    ],
+    "Zinc oxide": [
+      "TG114"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG114"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG114"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG114"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG114"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG114"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG114"
+    ],
+    "Dendrimers ": [
+      "TG114"
+    ],
+    "Nanoclays ": [
+      "TG114"
+    ],
+    "Gold nanoparticles ": [
+      "TG114"
+    ]
+  },
+  "Vapour pressure": {
+    "Fullerenes (C60)": [
+      "TG104"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG104"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG104"
+    ],
+    "Silver nanoparticles": [
+      "TG104"
+    ],
+    "Titanium dioxide NM105": [
+      "TG104"
+    ],
+    "Titanium dioxide NM100": [
+      "TG104"
+    ],
+    "Titanium dioxide NM101": [
+      "TG104"
+    ],
+    "Titanium dioxide NM102": [
+      "TG104"
+    ],
+    "Titanium dioxide NM103": [
+      "TG104"
+    ],
+    "Titanium dioxide NM104": [
+      "TG104"
+    ],
+    "Cerium oxide": [
+      "TG104"
+    ],
+    "Zinc oxide": [
+      "TG104"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG104"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG104"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG104"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG104"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG104"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG104"
+    ],
+    "Dendrimers ": [
+      "TG104"
+    ],
+    "Nanoclays ": [
+      "TG104"
+    ],
+    "Gold nanoparticles ": [
+      "TG104"
+    ]
+  },
+  "Use and exposure information:Widespread use by professional workers": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Use and exposure information:Uses at industrial sites": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Use and exposure information:Service life": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Use and exposure information:Manufacture": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Use and exposure information:Formulating or re-packing": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Use and exposure information:Consumer uses": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to terrestrial plants": {
+    "Fullerenes (C60)": [
+      "TG208",
+      "TG227"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG208",
+      "TG227"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG208",
+      "TG227"
+    ],
+    "Silver nanoparticles": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM105": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM100": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM101": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM102": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM103": [
+      "TG208",
+      "TG227"
+    ],
+    "Titanium dioxide NM104": [
+      "TG208",
+      "TG227"
+    ],
+    "Cerium oxide": [
+      "TG208",
+      "TG227"
+    ],
+    "Zinc oxide": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG208",
+      "TG227"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG208",
+      "TG227"
+    ],
+    "Dendrimers ": [
+      "TG208",
+      "TG227"
+    ],
+    "Nanoclays ": [
+      "TG208",
+      "TG227"
+    ],
+    "Gold nanoparticles ": [
+      "TG208",
+      "TG227"
+    ]
+  },
+  "Toxicity to terrestrial arthropods other than bees": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to soil microorganisms": {
+    "Fullerenes (C60)": [
+      "TG216",
+      "TG217"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG216",
+      "TG217"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG216",
+      "TG217"
+    ],
+    "Silver nanoparticles": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM105": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM100": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM101": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM102": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM103": [
+      "TG216",
+      "TG217"
+    ],
+    "Titanium dioxide NM104": [
+      "TG216",
+      "TG217"
+    ],
+    "Cerium oxide": [
+      "TG216",
+      "TG217"
+    ],
+    "Zinc oxide": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG216",
+      "TG217"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG216",
+      "TG217"
+    ],
+    "Dendrimers ": [
+      "TG216",
+      "TG217"
+    ],
+    "Nanoclays ": [
+      "TG216",
+      "TG217"
+    ],
+    "Gold nanoparticles ": [
+      "TG216",
+      "TG217"
+    ]
+  },
+  "Toxicity to soil macro-organisms except arthropods": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to soil arthropods": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to reproduction: other studies": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to reproduction": {
+    "Fullerenes (C60)": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silver nanoparticles": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM105": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM100": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM101": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM102": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM103": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Titanium dioxide NM104": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Cerium oxide": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Zinc oxide": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Dendrimers ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Nanoclays ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ],
+    "Gold nanoparticles ": [
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443",
+      "TG415",
+      "TG416",
+      "TG421,\nTG422",
+      "TG426",
+      "TG443"
+    ]
+  },
+  "Toxicity to other aquaticvertebrates": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to other above-ground organisms": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to microorganisms": {
+    "Fullerenes (C60)": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silver nanoparticles": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM105": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM100": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM101": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM102": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM103": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Titanium dioxide NM104": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Cerium oxide": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Zinc oxide": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Dendrimers ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Nanoclays ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ],
+    "Gold nanoparticles ": [
+      "TG209",
+      "TG224",
+      "TG244"
+    ]
+  },
+  "Toxicity to birds": {
+    "Fullerenes (C60)": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silver nanoparticles": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM105": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM100": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM101": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM102": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM103": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Titanium dioxide NM104": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Cerium oxide": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Zinc oxide": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Dendrimers ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Nanoclays ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ],
+    "Gold nanoparticles ": [
+      "TG205",
+      "TG206",
+      "TG223"
+    ]
+  },
+  "Toxicity to bees": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Toxicity to aquatic plants other than algae": {
+    "Fullerenes (C60)": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silver nanoparticles": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM105": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM100": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM101": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM102": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM103": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Titanium dioxide NM104": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Cerium oxide": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Zinc oxide": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Dendrimers ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Nanoclays ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ],
+    "Gold nanoparticles ": [
+      "TG221",
+      "TG238",
+      "TG239"
+    ]
+  },
+  "Toxicity to aquatic algae and cyanobacteria": {
+    "Fullerenes (C60)": [
+      "TG201"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG201"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG201"
+    ],
+    "Silver nanoparticles": [
+      "TG201"
+    ],
+    "Titanium dioxide NM105": [
+      "TG201"
+    ],
+    "Titanium dioxide NM100": [
+      "TG201"
+    ],
+    "Titanium dioxide NM101": [
+      "TG201"
+    ],
+    "Titanium dioxide NM102": [
+      "TG201"
+    ],
+    "Titanium dioxide NM103": [
+      "TG201"
+    ],
+    "Titanium dioxide NM104": [
+      "TG201"
+    ],
+    "Cerium oxide": [
+      "TG201"
+    ],
+    "Zinc oxide": [
+      "TG201"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG201"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG201"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG201"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG201"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG201"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG201"
+    ],
+    "Dendrimers ": [
+      "TG201"
+    ],
+    "Nanoclays ": [
+      "TG201"
+    ],
+    "Gold nanoparticles ": [
+      "TG201"
+    ]
+  },
+  "Toxic effects on livestock and pets": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Surface tension": {
+    "Fullerenes (C60)": [
+      "TG115"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG115"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG115"
+    ],
+    "Silver nanoparticles": [
+      "TG115"
+    ],
+    "Titanium dioxide NM105": [
+      "TG115"
+    ],
+    "Titanium dioxide NM100": [
+      "TG115"
+    ],
+    "Titanium dioxide NM101": [
+      "TG115"
+    ],
+    "Titanium dioxide NM102": [
+      "TG115"
+    ],
+    "Titanium dioxide NM103": [
+      "TG115"
+    ],
+    "Titanium dioxide NM104": [
+      "TG115"
+    ],
+    "Cerium oxide": [
+      "TG115"
+    ],
+    "Zinc oxide": [
+      "TG115"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG115"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG115"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG115"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG115"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG115"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG115"
+    ],
+    "Dendrimers ": [
+      "TG115"
+    ],
+    "Nanoclays ": [
+      "TG115"
+    ],
+    "Gold nanoparticles ": [
+      "TG115"
+    ]
+  },
+  "Storage stability and reactivity towards containermaterial": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Stability: thermal, sunlight, metals": {
+    "Fullerenes (C60)": [
+      "TG113"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG113"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG113"
+    ],
+    "Silver nanoparticles": [
+      "TG113"
+    ],
+    "Titanium dioxide NM105": [
+      "TG113"
+    ],
+    "Titanium dioxide NM100": [
+      "TG113"
+    ],
+    "Titanium dioxide NM101": [
+      "TG113"
+    ],
+    "Titanium dioxide NM102": [
+      "TG113"
+    ],
+    "Titanium dioxide NM103": [
+      "TG113"
+    ],
+    "Titanium dioxide NM104": [
+      "TG113"
+    ],
+    "Cerium oxide": [
+      "TG113"
+    ],
+    "Zinc oxide": [
+      "TG113"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG113"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG113"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG113"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG113"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG113"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG113"
+    ],
+    "Dendrimers ": [
+      "TG113"
+    ],
+    "Nanoclays ": [
+      "TG113"
+    ],
+    "Gold nanoparticles ": [
+      "TG113"
+    ]
+  },
+  "Stability: Dissociation constant": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Stability of residues in stored commodities": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Stability in organic solvents and identity of relevant degradation products": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Specific investigations: other studies": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Solubility in organic solvents/fat solubility": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Skin sensitisation": {
+    "Fullerenes (C60)": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silver nanoparticles": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM105": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM100": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM101": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM102": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM103": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Titanium dioxide NM104": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Cerium oxide": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Zinc oxide": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Dendrimers ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Nanoclays ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ],
+    "Gold nanoparticles ": [
+      "TG406",
+      "TG429",
+      "TG442A,\nTG442B",
+      "TG442C",
+      "TG442D",
+      "TG442E",
+      "TG497"
+    ]
+  },
+  "Skin irritation/corrosion": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Short-term toxicity to fish": {
+    "Fullerenes (C60)": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silver nanoparticles": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM105": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM100": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM101": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM102": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM103": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Titanium dioxide NM104": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Cerium oxide": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Zinc oxide": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Dendrimers ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Nanoclays ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ],
+    "Gold nanoparticles ": [
+      "TG203",
+      "TG204",
+      "TG236",
+      "TG249"
+    ]
+  },
+  "Short-term toxicity to aquatic invertebrates": {
+    "Fullerenes (C60)": [
+      "TG202",
+      "TG235"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG202",
+      "TG235"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG202",
+      "TG235"
+    ],
+    "Silver nanoparticles": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM105": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM100": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM101": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM102": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM103": [
+      "TG202",
+      "TG235"
+    ],
+    "Titanium dioxide NM104": [
+      "TG202",
+      "TG235"
+    ],
+    "Cerium oxide": [
+      "TG202",
+      "TG235"
+    ],
+    "Zinc oxide": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG202",
+      "TG235"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG202",
+      "TG235"
+    ],
+    "Dendrimers ": [
+      "TG202",
+      "TG235"
+    ],
+    "Nanoclays ": [
+      "TG202",
+      "TG235"
+    ],
+    "Gold nanoparticles ": [
+      "TG202",
+      "TG235"
+    ]
+  },
+  "Sensitisation data (humans)": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Self-reactive substances": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Sediment toxicity": {
+    "Fullerenes (C60)": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silver nanoparticles": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM105": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM100": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM101": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM102": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM103": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Titanium dioxide NM104": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Cerium oxide": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Zinc oxide": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Dendrimers ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Nanoclays ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ],
+    "Gold nanoparticles ": [
+      "TG218",
+      "TG219",
+      "TG225",
+      "TG233"
+    ]
+  },
+  "Respiratory sensitisation": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Residuesin livestock": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Residues in crops (field trials) and in rotational crops (limited field studies)": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Repeated dose toxicity: other routes": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Repeated dose toxicity: oral": {
+    "Fullerenes (C60)": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silver nanoparticles": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM105": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM100": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM101": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM102": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM103": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM104": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Cerium oxide": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Zinc oxide": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Dendrimers ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Nanoclays ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ],
+    "Gold nanoparticles ": [
+      "TG407",
+      "TG408",
+      "TG409,\nTG419",
+      "TG422",
+      "TG424,\nTG452",
+      "TG453"
+    ]
+  },
+  "Repeated dose toxicity: inhalation": {
+    "Fullerenes (C60)": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silver nanoparticles": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM105": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM100": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM101": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM102": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM103": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM104": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Cerium oxide": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Zinc oxide": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Dendrimers ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Nanoclays ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Gold nanoparticles ": [
+      "TG412",
+      "TG413",
+      "TG422,\nTG452",
+      "TG453"
+    ]
+  },
+  "Repeated dose toxicity: dermal": {
+    "Fullerenes (C60)": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silver nanoparticles": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM105": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM100": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM101": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM102": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM103": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Titanium dioxide NM104": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Cerium oxide": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Zinc oxide": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Dendrimers ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Nanoclays ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ],
+    "Gold nanoparticles ": [
+      "TG410",
+      "TG411",
+      "TG422,\nTG452",
+      "TG453"
+    ]
+  },
+  "Phototransformation in water": {
+    "Fullerenes (C60)": [
+      "TG316"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG316"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG316"
+    ],
+    "Silver nanoparticles": [
+      "TG316"
+    ],
+    "Titanium dioxide NM105": [
+      "TG316"
+    ],
+    "Titanium dioxide NM100": [
+      "TG316"
+    ],
+    "Titanium dioxide NM101": [
+      "TG316"
+    ],
+    "Titanium dioxide NM102": [
+      "TG316"
+    ],
+    "Titanium dioxide NM103": [
+      "TG316"
+    ],
+    "Titanium dioxide NM104": [
+      "TG316"
+    ],
+    "Cerium oxide": [
+      "TG316"
+    ],
+    "Zinc oxide": [
+      "TG316"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG316"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG316"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG316"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG316"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG316"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG316"
+    ],
+    "Dendrimers ": [
+      "TG316"
+    ],
+    "Nanoclays ": [
+      "TG316"
+    ],
+    "Gold nanoparticles ": [
+      "TG316"
+    ]
+  },
+  "Phototransformation in soil": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Phototransformation in air": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "pH": {
+    "Fullerenes (C60)": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silver nanoparticles": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM105": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM100": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM101": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM102": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM103": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Titanium dioxide NM104": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Cerium oxide": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Zinc oxide": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Dendrimers ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Nanoclays ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ],
+    "Gold nanoparticles ": [
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122",
+      "TG122"
+    ]
+  },
+  "Partition coefficient": {
+    "Fullerenes (C60)": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silver nanoparticles": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM105": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM100": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM101": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM102": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM103": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Titanium dioxide NM104": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Cerium oxide": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Zinc oxide": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Dendrimers ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Nanoclays ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ],
+    "Gold nanoparticles ": [
+      "TG107",
+      "TG117",
+      "TG123"
+    ]
+  },
+  "Particle size distribution (Granulometry)/Fibre lengthand diameter distribution": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Oxidising properties": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Oxidation reduction potential": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Other distribution data": {
+    "Fullerenes (C60)": [
+      "TG312"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG312"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG312"
+    ],
+    "Silver nanoparticles": [
+      "TG312"
+    ],
+    "Titanium dioxide NM105": [
+      "TG312"
+    ],
+    "Titanium dioxide NM100": [
+      "TG312"
+    ],
+    "Titanium dioxide NM101": [
+      "TG312"
+    ],
+    "Titanium dioxide NM102": [
+      "TG312"
+    ],
+    "Titanium dioxide NM103": [
+      "TG312"
+    ],
+    "Titanium dioxide NM104": [
+      "TG312"
+    ],
+    "Cerium oxide": [
+      "TG312"
+    ],
+    "Zinc oxide": [
+      "TG312"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG312"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG312"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG312"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG312"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG312"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG312"
+    ],
+    "Dendrimers ": [
+      "TG312"
+    ],
+    "Nanoclays ": [
+      "TG312"
+    ],
+    "Gold nanoparticles ": [
+      "TG312"
+    ]
+  },
+  "Organic peroxide": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Neurotoxicity": {
+    "Fullerenes (C60)": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silver nanoparticles": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM105": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM100": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM101": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM102": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM103": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Titanium dioxide NM104": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Cerium oxide": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Zinc oxide": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Dendrimers ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Nanoclays ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ],
+    "Gold nanoparticles ": [
+      "TG407",
+      "TG408",
+      "TG412,\nTG413",
+      "TG418",
+      "TG419,\nTG422",
+      "TG424",
+      "TG426"
+    ]
+  },
+  "Nature of residues in processed commodities": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial Zeta potential": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial surface chemistry": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial specific surface area": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial radical/formation potential": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial pour density": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial porosity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial photocatalytic activity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial dustiness": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial crystallite and grain size": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial crystalline phase": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial catalytic activity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial aspect ratio/shape": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Nanomaterial agglomeration/aggregation": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Monitoring data": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Mode of degradation in actual use": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Migration of residues into and their behaviour on food or feedingstuffs": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Metabolism of residues in livestock": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Metabolism of residues in cropsand in rotational crops": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Melting point/freezing point": {
+    "Fullerenes (C60)": [
+      "TG102"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG102"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG102"
+    ],
+    "Silver nanoparticles": [
+      "TG102"
+    ],
+    "Titanium dioxide NM105": [
+      "TG102"
+    ],
+    "Titanium dioxide NM100": [
+      "TG102"
+    ],
+    "Titanium dioxide NM101": [
+      "TG102"
+    ],
+    "Titanium dioxide NM102": [
+      "TG102"
+    ],
+    "Titanium dioxide NM103": [
+      "TG102"
+    ],
+    "Titanium dioxide NM104": [
+      "TG102"
+    ],
+    "Cerium oxide": [
+      "TG102"
+    ],
+    "Zinc oxide": [
+      "TG102"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG102"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG102"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG102"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG102"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG102"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG102"
+    ],
+    "Dendrimers ": [
+      "TG102"
+    ],
+    "Nanoclays ": [
+      "TG102"
+    ],
+    "Gold nanoparticles ": [
+      "TG102"
+    ]
+  },
+  "Magnitude of residues in processed commodities": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Long-term toxicity to fish": {
+    "Fullerenes (C60)": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silver nanoparticles": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM105": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM100": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM101": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM102": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM103": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Titanium dioxide NM104": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Cerium oxide": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Zinc oxide": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Dendrimers ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Nanoclays ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ],
+    "Gold nanoparticles ": [
+      "TG204",
+      "TG210",
+      "TG212",
+      "TG215"
+    ]
+  },
+  "Long-term toxicity to aquatic invertebrates": {
+    "Fullerenes (C60)": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silver nanoparticles": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM105": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM100": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM101": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM102": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM103": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Titanium dioxide NM104": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Cerium oxide": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Zinc oxide": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Dendrimers ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Nanoclays ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ],
+    "Gold nanoparticles ": [
+      "TG211",
+      "TG242",
+      "TG243"
+    ]
+  },
+  "Intermediate effects - mechanistic information": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "In vitro phototoxicity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Immunotoxicity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Hydrolysis": {
+    "Fullerenes (C60)": [
+      "TG111"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG111"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG111"
+    ],
+    "Silver nanoparticles": [
+      "TG111"
+    ],
+    "Titanium dioxide NM105": [
+      "TG111"
+    ],
+    "Titanium dioxide NM100": [
+      "TG111"
+    ],
+    "Titanium dioxide NM101": [
+      "TG111"
+    ],
+    "Titanium dioxide NM102": [
+      "TG111"
+    ],
+    "Titanium dioxide NM103": [
+      "TG111"
+    ],
+    "Titanium dioxide NM104": [
+      "TG111"
+    ],
+    "Cerium oxide": [
+      "TG111"
+    ],
+    "Zinc oxide": [
+      "TG111"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG111"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG111"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG111"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG111"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG111"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG111"
+    ],
+    "Dendrimers ": [
+      "TG111"
+    ],
+    "Nanoclays ": [
+      "TG111"
+    ],
+    "Gold nanoparticles ": [
+      "TG111"
+    ]
+  },
+  "Henry's Law constant": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Health surveillance data": {
+    "Fullerenes (C60)": [
+      "none "
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "none "
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "none "
+    ],
+    "Silver nanoparticles": [
+      "none "
+    ],
+    "Titanium dioxide NM105": [
+      "none "
+    ],
+    "Titanium dioxide NM100": [
+      "none "
+    ],
+    "Titanium dioxide NM101": [
+      "none "
+    ],
+    "Titanium dioxide NM102": [
+      "none "
+    ],
+    "Titanium dioxide NM103": [
+      "none "
+    ],
+    "Titanium dioxide NM104": [
+      "none "
+    ],
+    "Cerium oxide": [
+      "none "
+    ],
+    "Zinc oxide": [
+      "none "
+    ],
+    "Silicon dioxide NM200 ": [
+      "none "
+    ],
+    "Silicon dioxide NM201 ": [
+      "none "
+    ],
+    "Silicon dioxide NM202 ": [
+      "none "
+    ],
+    "Silicon dioxide NM203 ": [
+      "none "
+    ],
+    "Silicon dioxide NM204 ": [
+      "none "
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "none "
+    ],
+    "Dendrimers ": [
+      "none "
+    ],
+    "Nanoclays ": [
+      "none "
+    ],
+    "Gold nanoparticles ": [
+      "none "
+    ]
+  },
+  "Genetic toxicity in vivo": {
+    "Fullerenes (C60)": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silver nanoparticles": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM105": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM100": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM101": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM102": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM103": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Titanium dioxide NM104": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Cerium oxide": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Zinc oxide": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Dendrimers ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Nanoclays ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ],
+    "Gold nanoparticles ": [
+      "TG474",
+      "TG475",
+      "TG477,\nTG478",
+      "TG483",
+      "TG484,\nTG485",
+      "TG486",
+      "TG488",
+      "TG489"
+    ]
+  },
+  "Genetic toxicity in vitro": {
+    "Fullerenes (C60)": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silver nanoparticles": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM105": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM100": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM101": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM102": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM103": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Titanium dioxide NM104": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Cerium oxide": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Zinc oxide": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Dendrimers ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Nanoclays ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ],
+    "Gold nanoparticles ": [
+      "TG471",
+      "TG472",
+      "TG473,\nTG476",
+      "TG479",
+      "TG480,\nTG481",
+      "TG482",
+      "TG487",
+      "TG490"
+    ]
+  },
+  "Gases under pressure": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Flash point": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Flammability": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Field studies": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Eye irritation": {
+    "Fullerenes (C60)": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silver nanoparticles": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM105": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM100": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM101": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM102": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM103": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Titanium dioxide NM104": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Cerium oxide": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Zinc oxide": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Dendrimers ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Nanoclays ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ],
+    "Gold nanoparticles ": [
+      "TG405",
+      "TG437",
+      "TG438,\nTG460",
+      "TG491",
+      "TG492",
+      "TG494"
+    ]
+  },
+  "Exposure-related observations in humans: other data": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Explosives": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Expected exposure and proposed acceptable residues": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Epidemiological data": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Endocrine disruptor mammalian screening - In vivo (level 3)": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Endocrine disrupter testing in aquaticvertebrates- in vivo": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Endocrine disrupter screening - in vitro": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Emissions from preservative-treated wood": {
+    "Fullerenes (C60)": [
+      "TG313"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG313"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG313"
+    ],
+    "Silver nanoparticles": [
+      "TG313"
+    ],
+    "Titanium dioxide NM105": [
+      "TG313"
+    ],
+    "Titanium dioxide NM100": [
+      "TG313"
+    ],
+    "Titanium dioxide NM101": [
+      "TG313"
+    ],
+    "Titanium dioxide NM102": [
+      "TG313"
+    ],
+    "Titanium dioxide NM103": [
+      "TG313"
+    ],
+    "Titanium dioxide NM104": [
+      "TG313"
+    ],
+    "Cerium oxide": [
+      "TG313"
+    ],
+    "Zinc oxide": [
+      "TG313"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG313"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG313"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG313"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG313"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG313"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG313"
+    ],
+    "Dendrimers ": [
+      "TG313"
+    ],
+    "Nanoclays ": [
+      "TG313"
+    ],
+    "Gold nanoparticles ": [
+      "TG313"
+    ]
+  },
+  "Efficacy data": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Effectiveness against target organismsand intended uses - general information": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Distribution modelling": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Direct observations: clinical cases, poisoning incidents and other": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Developmental toxicity/teratogenicity": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Dermal absorption": {
+    "Fullerenes (C60)": [
+      "TG427",
+      "TG428"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG427",
+      "TG428"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG427",
+      "TG428"
+    ],
+    "Silver nanoparticles": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM105": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM100": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM101": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM102": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM103": [
+      "TG427",
+      "TG428"
+    ],
+    "Titanium dioxide NM104": [
+      "TG427",
+      "TG428"
+    ],
+    "Cerium oxide": [
+      "TG427",
+      "TG428"
+    ],
+    "Zinc oxide": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG427",
+      "TG428"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG427",
+      "TG428"
+    ],
+    "Dendrimers ": [
+      "TG427",
+      "TG428"
+    ],
+    "Nanoclays ": [
+      "TG427",
+      "TG428"
+    ],
+    "Gold nanoparticles ": [
+      "TG427",
+      "TG428"
+    ]
+  },
+  "Density": {
+    "Fullerenes (C60)": [
+      "TG109",
+      "TG109"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG109",
+      "TG109"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG109",
+      "TG109"
+    ],
+    "Silver nanoparticles": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM105": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM100": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM101": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM102": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM103": [
+      "TG109",
+      "TG109"
+    ],
+    "Titanium dioxide NM104": [
+      "TG109",
+      "TG109"
+    ],
+    "Cerium oxide": [
+      "TG109",
+      "TG109"
+    ],
+    "Zinc oxide": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG109",
+      "TG109"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG109",
+      "TG109"
+    ],
+    "Dendrimers ": [
+      "TG109",
+      "TG109"
+    ],
+    "Nanoclays ": [
+      "TG109",
+      "TG109"
+    ],
+    "Gold nanoparticles ": [
+      "TG109",
+      "TG109"
+    ]
+  },
+  "Corrosive to metals": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Carcinogenicity": {
+    "Fullerenes (C60)": [
+      "TG451",
+      "TG453"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG451",
+      "TG453"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG451",
+      "TG453"
+    ],
+    "Silver nanoparticles": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM105": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM100": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM101": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM102": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM103": [
+      "TG451",
+      "TG453"
+    ],
+    "Titanium dioxide NM104": [
+      "TG451",
+      "TG453"
+    ],
+    "Cerium oxide": [
+      "TG451",
+      "TG453"
+    ],
+    "Zinc oxide": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG451",
+      "TG453"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG451",
+      "TG453"
+    ],
+    "Dendrimers ": [
+      "TG451",
+      "TG453"
+    ],
+    "Nanoclays ": [
+      "TG451",
+      "TG453"
+    ],
+    "Gold nanoparticles ": [
+      "TG451",
+      "TG453"
+    ]
+  },
+  "Boiling point": {
+    "Fullerenes (C60)": [
+      "TG103"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG103"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG103"
+    ],
+    "Silver nanoparticles": [
+      "TG103"
+    ],
+    "Titanium dioxide NM105": [
+      "TG103"
+    ],
+    "Titanium dioxide NM100": [
+      "TG103"
+    ],
+    "Titanium dioxide NM101": [
+      "TG103"
+    ],
+    "Titanium dioxide NM102": [
+      "TG103"
+    ],
+    "Titanium dioxide NM103": [
+      "TG103"
+    ],
+    "Titanium dioxide NM104": [
+      "TG103"
+    ],
+    "Cerium oxide": [
+      "TG103"
+    ],
+    "Zinc oxide": [
+      "TG103"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG103"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG103"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG103"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG103"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG103"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG103"
+    ],
+    "Dendrimers ": [
+      "TG103"
+    ],
+    "Nanoclays ": [
+      "TG103"
+    ],
+    "Gold nanoparticles ": [
+      "TG103"
+    ]
+  },
+  "Biotransformation and kinetics": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Biological effects monitoring": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Biodegradation in water: screeningtests": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Biodegradation in water andsediment:simulation tests": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Biodegradation in soil": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Bioaccumulation: terrestrial": {
+    "Fullerenes (C60)": [
+      "TG317"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG317"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG317"
+    ],
+    "Silver nanoparticles": [
+      "TG317"
+    ],
+    "Titanium dioxide NM105": [
+      "TG317"
+    ],
+    "Titanium dioxide NM100": [
+      "TG317"
+    ],
+    "Titanium dioxide NM101": [
+      "TG317"
+    ],
+    "Titanium dioxide NM102": [
+      "TG317"
+    ],
+    "Titanium dioxide NM103": [
+      "TG317"
+    ],
+    "Titanium dioxide NM104": [
+      "TG317"
+    ],
+    "Cerium oxide": [
+      "TG317"
+    ],
+    "Zinc oxide": [
+      "TG317"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG317"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG317"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG317"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG317"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG317"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG317"
+    ],
+    "Dendrimers ": [
+      "TG317"
+    ],
+    "Nanoclays ": [
+      "TG317"
+    ],
+    "Gold nanoparticles ": [
+      "TG317"
+    ]
+  },
+  "Bioaccumulation: aquatic/sediment": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Basic toxicokinetics": {
+    "Fullerenes (C60)": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silver nanoparticles": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM105": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM100": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM101": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM102": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM103": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Titanium dioxide NM104": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Cerium oxide": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Zinc oxide": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Dendrimers ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Nanoclays ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ],
+    "Gold nanoparticles ": [
+      "TG417",
+      "TG 319A",
+      "TG319B"
+    ]
+  },
+  "Auto-ignition temperature": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Appearance/physical state/colour": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Analytical methods": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Adsorption/desorption": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Additional toxicological information": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Additional physico-chemical information": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Additional information onenvironmentalfateand behaviour": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Additional information on residuechemistry": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Additional ecotoxicological information": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Acute toxicity: other routes": {
+    "Fullerenes (C60)": [],
+    "Single-walled carbon nanotubes (SWCNTs)": [],
+    "Multi-walled carbon nanotubes (MWCNTs)": [],
+    "Silver nanoparticles": [],
+    "Titanium dioxide NM105": [],
+    "Titanium dioxide NM100": [],
+    "Titanium dioxide NM101": [],
+    "Titanium dioxide NM102": [],
+    "Titanium dioxide NM103": [],
+    "Titanium dioxide NM104": [],
+    "Cerium oxide": [],
+    "Zinc oxide": [],
+    "Silicon dioxide NM200 ": [],
+    "Silicon dioxide NM201 ": [],
+    "Silicon dioxide NM202 ": [],
+    "Silicon dioxide NM203 ": [],
+    "Silicon dioxide NM204 ": [],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [],
+    "Dendrimers ": [],
+    "Nanoclays ": [],
+    "Gold nanoparticles ": []
+  },
+  "Acute toxicity: oral": {
+    "Fullerenes (C60)": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silver nanoparticles": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM105": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM100": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM101": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM102": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM103": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Titanium dioxide NM104": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Cerium oxide": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Zinc oxide": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Dendrimers ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Nanoclays ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ],
+    "Gold nanoparticles ": [
+      "TG401",
+      "TG420",
+      "TG423,TG425"
+    ]
+  },
+  "Acute toxicity: inhalation": {
+    "Fullerenes (C60)": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silver nanoparticles": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM105": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM100": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM101": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM102": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM103": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Titanium dioxide NM104": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Cerium oxide": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Zinc oxide": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Dendrimers ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Nanoclays ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ],
+    "Gold nanoparticles ": [
+      "TG403",
+      "TG433",
+      "TG436"
+    ]
+  },
+  "Acute toxicity: dermal": {
+    "Fullerenes (C60)": [
+      "TG402"
+    ],
+    "Single-walled carbon nanotubes (SWCNTs)": [
+      "TG402"
+    ],
+    "Multi-walled carbon nanotubes (MWCNTs)": [
+      "TG402"
+    ],
+    "Silver nanoparticles": [
+      "TG402"
+    ],
+    "Titanium dioxide NM105": [
+      "TG402"
+    ],
+    "Titanium dioxide NM100": [
+      "TG402"
+    ],
+    "Titanium dioxide NM101": [
+      "TG402"
+    ],
+    "Titanium dioxide NM102": [
+      "TG402"
+    ],
+    "Titanium dioxide NM103": [
+      "TG402"
+    ],
+    "Titanium dioxide NM104": [
+      "TG402"
+    ],
+    "Cerium oxide": [
+      "TG402"
+    ],
+    "Zinc oxide": [
+      "TG402"
+    ],
+    "Silicon dioxide NM200 ": [
+      "TG402"
+    ],
+    "Silicon dioxide NM201 ": [
+      "TG402"
+    ],
+    "Silicon dioxide NM202 ": [
+      "TG402"
+    ],
+    "Silicon dioxide NM203 ": [
+      "TG402"
+    ],
+    "Silicon dioxide NM204 ": [
+      "TG402"
+    ],
+    "Silicon dioxide JP AIST data on SiO2 UFP-80 and NanoTek": [
+      "TG402"
+    ],
+    "Dendrimers ": [
+      "TG402"
+    ],
+    "Nanoclays ": [
+      "TG402"
+    ],
+    "Gold nanoparticles ": [
+      "TG402"
+    ]
+  }
+}
